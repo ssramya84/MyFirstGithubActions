@@ -5,7 +5,7 @@ function chikkiSays(message) {
     return `${chikki} hellokitty!`;
   }
 
-  return `${chikki} ${message}`;
+  return `${chikki} ${message}!`;
 }
 
 module.exports.chikkiSays = chikkiSays;
