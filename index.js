@@ -1,8 +1,8 @@
 function chikkiSays(message) {
-  let chikki = '(o.o)';
+  let chikki = '(O.o)';
 
   if ( !message ) {
-    return `${chikki} hellokitty?`;
+    return `${chikki} hellokitty!`;
   }
 
   return `${chikki} ${message}`;
