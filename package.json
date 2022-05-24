@@ -1,0 +1,16 @@
+{
+  "name": "my-package",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssramya84/MyFirstGithubActions"
+  },
+  
+  "homepage": "https://github.com/ssramya84/MyFirstGithubActions/blob/main/README.md",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
+  
